@@ -1,0 +1,14 @@
+{
+  "name": "no4-plugins",
+  "owner": {
+    "name": "No.4"
+  },
+  "description": "No.4 の Claude Code プラグイン置き場",
+  "plugins": [
+    {
+      "name": "usage-archive",
+      "source": "./plugins/usage-archive",
+      "description": "Claude Code / Codex の利用量を ccusage で集計し、月別 JSON としてローカルに保存します"
+    }
+  ]
+}
