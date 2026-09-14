@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "usage-archive",
+  "description": "Claude Code / Codex の利用量を ccusage で集計し、月別 JSON としてローカルに保存します",
+  "author": {
+    "name": "No.4"
+  },
+  "repository": "https://github.com/no4-co-jp/claude-plugins"
+}
